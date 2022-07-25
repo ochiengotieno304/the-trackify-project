@@ -1,10 +1,10 @@
-# 11ty-landing-page
+# Trackify Info Page
 
-A simple landing page built with 11ty and Tailwind CSS.
+Trackify's home page.
 
-> Port of the [Hugo Version](https://github.com/ttntm/hugo-landing-page)
+> Port of the [Parent Template](https://github.com/ttntm/11ty-landing-page)
 
-## How to use this template
+## How to improve the page
 
 **Requirements:**
 
