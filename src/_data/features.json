@@ -1,0 +1,12 @@
+[
+  {
+    "title": "SKU GENERATOR",
+    "icon": "sku.png",
+    "content": "Generate custom beba-compatilbe SKUs through our feature rich API. Automatically linked to Beba"
+  },
+  {
+    "title": "PACKAGE TRACKING",
+    "icon": "location.png",
+    "content": "Manage customers' packages on a single dashboard"
+  }
+]

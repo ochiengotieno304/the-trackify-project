@@ -1,0 +1,17 @@
+{
+  "baseURL": "https://",
+  "author": "created by AWE.SOME, modified by Trackify",
+  "description": "TRACKIFY - the Trackify project",
+  "title": "TRACKIFY - the Trackify project",
+  "language": "en",
+  "social": [
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/#"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://linkedin.com/company/#"
+    }
+  ]
+}
